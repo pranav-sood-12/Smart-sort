@@ -13,5 +13,9 @@ Software Programming: The software programming aspect of the project will involv
 ### Hardware Photo
 <img src="/assets/Hardware.jpeg" width="50%" height="50%">
 
+
+https://github.com/pranav-sood-12/Smart-sort/assets/99885598/31ea1f8e-190b-4bb0-964e-bce576995a99
+
+
 ### Demo Video
 ![](/assets/Demo-Video.mp4)
