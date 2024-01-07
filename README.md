@@ -11,7 +11,7 @@ Software Programming: The software programming aspect of the project will involv
 <img src="/assets/Swimlane.jpg" width="50%" height="50%">
 
 ### Hardware Photo
-<img src="/assets/Hardware.jepg" width="50%" height="50%">
+<img src="/assets/Hardware.jpeg" width="50%" height="50%">
 
 ### Demo Video
 ![](/assets/Demo-Video.mp4)
