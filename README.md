@@ -6,4 +6,9 @@ Hardware Design: The hardware design of the machine will involve designing and b
 Software Programming: The software programming aspect of the project will involve developing the machine learning algorithms that will be used to classify and sort the nuts and bolts. The algorithms will be trained on a dataset of nuts and bolts with known characteristics to identify patterns and make predictions about the characteristics of new nuts and bolts. The microprocessor will also be programmed to control the conveyor belt system and the sorting mechanism based on the output of the machine learning algorithms. 
 
 ## Project Pictures
+### Swimlane Diagram
+![](/assets/Swimlane.jpeg)
+### Hardware Photo
 ![](/assets/Hardware.jpeg)
+### Demo Video
+![](/assets/Demo-Video.mp4)
