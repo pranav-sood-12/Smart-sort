@@ -11,7 +11,7 @@ Software Programming: The software programming aspect of the project will involv
 ![](/assets/Swimlane.jpeg)
 
 ### Hardware Photo
-![](/assets/Hardware.jpeg)
+![](/assets/Hardware.jpg)
 
 ### Demo Video
 ![](/assets/Demo-Video.mp4)
