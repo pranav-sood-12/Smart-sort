@@ -8,10 +8,10 @@ Software Programming: The software programming aspect of the project will involv
 ## Project Pictures
 
 ### Swimlane Diagram
-![](/assets/Swimlane.jpeg)
+![](/assets/Swimlane.jpg)
 
 ### Hardware Photo
-![](/assets/Hardware.jpg)
+![](/assets/Hardware.jpeg)
 
 ### Demo Video
 ![](/assets/Demo-Video.mp4)
