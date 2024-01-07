@@ -8,7 +8,7 @@ Software Programming: The software programming aspect of the project will involv
 ## Project Pictures
 
 ### Swimlane Diagram
-<img src="/assets/Swimlane.jpg" width="100" height="100">
+<img src="/assets/Swimlane.jpg" width="50%" height="50%">
 
 ### Hardware Photo
 ![](/assets/Hardware.jpeg)
